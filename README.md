@@ -1,5 +1,5 @@
-# Data Science Stack Exchange Market Research
+# New Coders Survey Market Research
 
-Analyzed and visualized Data Science Stack Exchange questions to determine most popular learning topic for an online course
+Analyzed FreeCodeCamp survey of 20K new coders to determine best target audience segments for a coding e-learning platform
 
-Tools used: SQL (Transact-SQL), Python, pandas, matplotlib
+Tools used: Python
